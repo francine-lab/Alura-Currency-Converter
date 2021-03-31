@@ -5,8 +5,8 @@ The job was to build a simple currency converter app for one kind of coin to ano
 ## Tasks performed to achieve this project
 
 - The users are able to:
-    - Create a program that converts one kind of coin to another one
-    - Display the conversion result on the screen
+    - Interact with a program that converts one kind of coin to another one
+    - See the displayed the conversion result on the screen
 
 ## Extra task
 
